@@ -114,6 +114,7 @@ input{
     margin-top: 50px;
     color: #ffffff;
     position: relative;
+    cursor: pointer;
 }
 .fa-angle-right{
     color: #ffffff;
