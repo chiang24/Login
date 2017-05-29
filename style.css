@@ -22,8 +22,8 @@ body{
     font-family: 'Gibson-Light';
 }
 .wrapper{
-    width: 1150px;
-    height: 600px;
+    width: 1050px;
+    height: 500px;
     display: flex;
     margin-left: auto;
     margin-right: auto;
@@ -33,7 +33,7 @@ body{
 /*left*/
 
 .left{
-    min-width:400px;
+    min-width:350px;
     background-color: #fff;
     display: flex;
     align-items: center;
@@ -129,8 +129,8 @@ input{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    width:800px;
-    height:600px;
+    width:750px;
+    height:500px;
     position: relative;
 }
 .right:after{
