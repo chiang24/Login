@@ -23,7 +23,7 @@ body{
 }
 .wrapper{
     width: 1050px;
-    height: 500px;
+    height: 550px;
     display: flex;
     margin-left: auto;
     margin-right: auto;
@@ -130,7 +130,7 @@ input{
     background-size: cover;
     background-position: center center;
     width:750px;
-    height:500px;
+    height:550px;
     position: relative;
 }
 .right:after{
